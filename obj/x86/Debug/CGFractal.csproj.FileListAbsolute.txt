@@ -1,0 +1,9 @@
+C:\Users\Дима\Desktop\Компьютерная графика\CGFractal\bin\Debug\CGFractal.exe
+C:\Users\Дима\Desktop\Компьютерная графика\CGFractal\bin\Debug\CGFractal.pdb
+C:\Users\Дима\Desktop\Компьютерная графика\CGFractal\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Дима\Desktop\Компьютерная графика\CGFractal\obj\x86\Debug\Fractal.Form1.resources
+C:\Users\Дима\Desktop\Компьютерная графика\CGFractal\obj\x86\Debug\Fractal.Properties.Resources.resources
+C:\Users\Дима\Desktop\Компьютерная графика\CGFractal\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Дима\Desktop\Компьютерная графика\CGFractal\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Дима\Desktop\Компьютерная графика\CGFractal\obj\x86\Debug\CGFractal.exe
+C:\Users\Дима\Desktop\Компьютерная графика\CGFractal\obj\x86\Debug\CGFractal.pdb
